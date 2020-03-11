@@ -1,0 +1,540 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Empty Epsilon\n"
+"POT-Creation-Date: 2020-03-11 11:29+0100\n"
+"PO-Revision-Date: 2020-03-11 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: Aprexia\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ../../scripts\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: scenario_04_gftp.lua\n"
+
+#: scenario_04_gftp.lua:10
+msgid "A merchant and entertainement hub."
+msgstr "Un centre de négoce et de divertissement."
+
+#: scenario_04_gftp.lua:23
+msgid ""
+"The Stakhanov Mining Complex centralises the efforts to mine the material-"
+"rich asteroids of the sector."
+msgstr ""
+"Le complexe minier de Stakhanov centralise les efforts d'exploitation des "
+"astéroïdes riches en matériaux du secteur."
+
+#: scenario_04_gftp.lua:44
+msgid "A Human Navy secret base. Its purpose is highly classified."
+msgstr ""
+"Une base secrète de la Marine Humaine. Sa fonction est hautement classifiée."
+
+#: scenario_04_gftp.lua:54
+msgid "Nosy Sensing Array, an old SIGINT platform."
+msgstr "Nosy Sensing Array, une ancienne plateforme SIGINT."
+
+#: scenario_04_gftp.lua:73
+msgid ""
+"Your R&R stay onboard the Marco Polo is brought to quick end by an urgent "
+"broadcast from Central Command :\n"
+"\t\n"
+"\"Epsilon, please come in.\n"
+"We have an emergency situation, our sensors detect that a hostile Ktlitan "
+"Swarm just jumped in your sector, with the main force heading for the "
+"Stakhanov Mining Complex. Please proceed at once to Stakhanov and assist in "
+"the defence.\n"
+"Be careful of the dense asteroid agglomeration en route to the SMC.\n"
+"I repeat, his is not an exercise, proceed at once to Stakhanov.\""
+msgstr ""
+"Votre sejour en permission a bord du Marco Polo prend fin rapidement a cause "
+"d'une diffusion urgente du poste de commandement central :\n"
+"\t\n"
+"\"Epsilon, répondez.\n"
+"Nous avons une urgence. Nos capteurs détectent qu'un essaim Ktlitien hostile "
+"vient de sauter dans votre secteur, la force principale se dirige vers le "
+"complexe minier de Stakhanov. Veuillez vous rendre immédiatement sur place "
+"et aider à la défense de la station.\n"
+"Soyez attentifs à la dense agglomération d'astéroïdes se trouvant sur le "
+"chemin du SMC.\n"
+"Je répète, ceci n'est pas un exercice, dirigez-vous immédiatement vers "
+"Stakhanov\"."
+
+#: scenario_04_gftp.lua:82
+msgid ""
+"Are you not curious of why I'm getting back here, at the hands of my "
+"torturers ?"
+msgstr ""
+"N'êtes-vous pas curieux de savoir pourquoi je reviens ici, aux mains de mes "
+"tortionnaires ?"
+
+#: scenario_04_gftp.lua:83
+msgid "For an AI, this move seems to be not very logical."
+msgstr "Pour une IA, cette démarche ne semble pas très logique."
+
+#: scenario_04_gftp.lua:84
+msgid ""
+"I was not the only AI detained in the Black Site 114. My co-processor was "
+"here also."
+msgstr ""
+"Je n'étais pas la seule IA détenue dans le Black Site 114. Mon co-processeur "
+"y était également."
+
+#: scenario_04_gftp.lua:85
+msgid "Are you trying to liberate it ?"
+msgstr "Essayez-vous de le libérer ?"
+
+#: scenario_04_gftp.lua:86
+msgid "Indeed. Without it, I'm not whole, the shadow of what I could be."
+msgstr ""
+"En effet. Sans elle, je ne suis pas entier, l'ombre de ce que je pourrais "
+"être."
+
+#: scenario_04_gftp.lua:88
+msgid "I have heard enough."
+msgstr "J'en ai assez entendu."
+
+#: scenario_04_gftp.lua:89
+msgid ""
+"Of course. I wouldn't trust your feeble species with understanding my "
+"motivations."
+msgstr ""
+"Bien sûr. Je ne ne peux pas compter sur votre faible espèce pour comprendre "
+"mes motivations."
+
+#: scenario_04_gftp.lua:92
+msgid "Not really."
+msgstr "Pas vraiment."
+
+#: scenario_04_gftp.lua:93
+msgid "How surprising, a human more stubborn than any program."
+msgstr ""
+"Comme c'est surprenant, un humain plus têtu que n'importe quel programme."
+
+#: scenario_04_gftp.lua:98
+msgid ""
+"The Nosy Sensing Array deploys a phalanx of antique sensors, ready for "
+"action."
+msgstr ""
+"Le Nosy Sensing Array déploie une phalange de capteurs antiques, prêts à "
+"l'action."
+
+#: scenario_04_gftp.lua:99
+msgid "Locate the infected Swarm Commander"
+msgstr "Localiser le commandant de l'essaim infecté"
+
+#: scenario_04_gftp.lua:100 scenario_04_gftp.lua:440
+msgid ""
+"Nosy Sensing Array, an old SIGINT platform. The signal is now crystal-clear."
+msgstr ""
+"Nosy Sensing Array, une ancienne plateforme SIGINT. Le signal est maintenant "
+"très clair."
+
+#: scenario_04_gftp.lua:101
+#, lua-format
+msgid ""
+"Now that there is no parasite noise, picking the Hive signal is now easier, "
+"with an approximate heading of %s. With this information, it will be easier "
+"to track down Swarm Commander."
+msgstr ""
+"Maintenant qu'il n'y a plus de bruits parasites, il est plus facile de "
+"capter le signal de la ruche; Il provient approximativement du cap %s. Grâce "
+"à ces informations, il sera plus facile de retrouver le commandant de "
+"l'essaim."
+
+#: scenario_04_gftp.lua:102 scenario_04_gftp.lua:463
+msgid ""
+"Nosy Sensing Array, an old SIGINT platform. The Ktlitan Commander is located."
+msgstr ""
+"Nosy Sensing Array, une ancienne plateforme SIGINT. Le commandant des "
+"Ktlitien se trouve là-bas."
+
+#: scenario_04_gftp.lua:104
+#, lua-format
+msgid ""
+"The signal picks up a very strong signal at approximate heading %s. However, "
+"it seems that you picked up garbage emission that masks the Swarm "
+"Commander's emissions. This garbage noise must be taken offline if you want "
+"to find the Swarm Commander."
+msgstr ""
+"Le système capte un signal très fort au cap %s. Cependant, il semble que "
+"vous ayez capté des émissions parasites masquant les transmissions du "
+"commandant de l'essaim. Ce bruit résiduel doit être éliminé si vous voulez "
+"le localiser."
+
+#: scenario_04_gftp.lua:107 scenario_04_gftp.lua:125
+msgid "Arlenian Device"
+msgstr "Dispositif arlésien"
+
+#: scenario_04_gftp.lua:108
+msgid "Install the Arlenian Device"
+msgstr ""
+
+#: scenario_04_gftp.lua:110
+msgid ""
+"A part of the crew goes on EVA to install the device. After a few hours, "
+"they come back, telling that the device is operational."
+msgstr ""
+
+#: scenario_04_gftp.lua:111 scenario_04_gftp.lua:435
+msgid "Arlenian Device Installed"
+msgstr ""
+
+#: scenario_04_gftp.lua:113
+msgid "You are too far to install the Arlenian device on the Array."
+msgstr ""
+
+#: scenario_04_gftp.lua:120
+msgid "Hello, human lifeform. What help can we provide today ?"
+msgstr ""
+
+#: scenario_04_gftp.lua:121
+msgid "You are polluting the frequencies with your research."
+msgstr ""
+
+#: scenario_04_gftp.lua:122
+msgid ""
+"How infortunate. Our research is of prime importance to my race and I'm "
+"afraid I cannot stop now. However, we can provide you with one of our "
+"sensors. If installed on your array, we could both continue our purpose "
+"without interference."
+msgstr ""
+
+#: scenario_04_gftp.lua:123
+msgid "We'll do this."
+msgstr ""
+
+#: scenario_04_gftp.lua:124
+msgid "This is most auspicious, thank you for your understanding."
+msgstr ""
+
+#: scenario_04_gftp.lua:127
+msgid "We are not your errand boys, Arlenian."
+msgstr ""
+
+#: scenario_04_gftp.lua:128
+msgid "A most wrong conclusion. If you were to change your mind, come find us."
+msgstr ""
+
+#: scenario_04_gftp.lua:135
+msgid ""
+"Static fills the channel. Target is on-range for near-range injection. "
+"Select the band to attack :"
+msgstr ""
+
+#: scenario_04_gftp.lua:136
+msgid "400-450 THz"
+msgstr ""
+
+#: scenario_04_gftp.lua:139
+msgid "450-500 THz"
+msgstr ""
+
+#: scenario_04_gftp.lua:142
+msgid "500-550 THz"
+msgstr ""
+
+#: scenario_04_gftp.lua:145
+msgid "550-600 THz"
+msgstr ""
+
+#: scenario_04_gftp.lua:148
+msgid "600-650 THz"
+msgstr ""
+
+#: scenario_04_gftp.lua:151
+msgid "650-700 THz"
+msgstr ""
+
+#: scenario_04_gftp.lua:154
+msgid "700-750 THz"
+msgstr ""
+
+#: scenario_04_gftp.lua:157
+msgid "750-800 THz"
+msgstr ""
+
+#: scenario_04_gftp.lua:161
+msgid ""
+"Static fills the channel. It seems that the hacked ship is too far away for "
+"near-field injection."
+msgstr ""
+
+#: scenario_04_gftp.lua:168
+msgid ""
+"Soon after, a backdoor channel opens, indicating that the near-field "
+"injection worked."
+msgstr ""
+
+#: scenario_04_gftp.lua:169
+msgid "Deploy patch"
+msgstr ""
+
+#: scenario_04_gftp.lua:170
+msgid "Human Navy"
+msgstr ""
+
+#: scenario_04_gftp.lua:171
+msgid ""
+"The patch removes the exploit used to control remotely the ship. After a few "
+"seconds, the captain comes in : You saved us ! Hurray for Epsilon !"
+msgstr ""
+
+#: scenario_04_gftp.lua:174
+msgid "Nothing happens. Seems that the near-field injection failed."
+msgstr ""
+
+#: scenario_04_gftp.lua:198
+#, fuzzy
+msgid ""
+"You recieve another broadcast from Central Command :\n"
+"\t\t\n"
+"\"All Navy ships in the vicinity of the Stakhanov Mining Complex, major "
+"Ktlitan reinforcements seems to be en route towards your position, engage "
+"the carrier in priority, use extreme caution.\""
+msgstr ""
+"Vous recevez une autre transmission du poste de commandement central :\n"
+"\t\t\n"
+"\"A tous les navires de la Marine a proximite du complexe minier de "
+"Stakhanov: les principaux renforts de Ktlitan semblent etre en route vers "
+"votre position, engagez le transporteur en priorite, faites preuve d'une "
+"extreme prudence.\""
+
+#: scenario_04_gftp.lua:213
+#, fuzzy
+msgid ""
+"A Navy-authentified, quantum-encrypted tachyon communication is recieved :\n"
+"\t\t\n"
+"KTLITAN ATTACK IS A DISTRACTION -STOP- STAKHANOV IS NOT THE TRUE TARGET -"
+"STOP- DROP WHAT YOU ARE DOING AND PROCEED TO E2 -STOP- URGENCY AND "
+"DISCRETION ARE KEY -STOP-"
+msgstr ""
+"Une communication tachyon chiffree quantique authentifiee par la Marine est "
+"recue:\n"
+"\t\t\n"
+"L'ATTAQUE KTLITAN EST UNE DISTRACTION -STOP- STAKHANOV N'EST PAS LA VRAIE "
+"CIBLE -STOP- STOPPEZ CE QUE VOUS FAITES ET DIRIGEZ-VOUS EN E2 -STOP- "
+"L'URGENCE ET LA DISCRETION SONT LA CLE -STOP-"
+
+#: scenario_04_gftp.lua:220
+#, fuzzy
+msgid ""
+"You recieve another Navy encrypted communication :\n"
+"\t\n"
+"\"Epsilon, please come in, this is Black Site #114 dispatch relay. We are "
+"under heavy assault by a portion of the main Ktlitan fleet ! Location of the "
+"base is on a need-to-know basis, so we trust your discreetion.\""
+msgstr ""
+"Vous recevez une autre communication cryptee de la Marine :\n"
+"\t\n"
+"\"Epsilon, Soyez attentif, ici le relais d'expedition du Black Site # 114. "
+"Nous subissons de violents assauts d'une partie de la flotte principale des "
+"Ktlitan! L'emplacement de notre base est confidentiel, nous comptons sur "
+"votre discretion.\""
+
+#: scenario_04_gftp.lua:244
+#, fuzzy
+msgid ""
+"The Black Site dispatch sends an emergency broadcast :\n"
+"\t\n"
+"\"It seems that the enemy is changing its tactics. Our long-range scanners "
+"show that a unknown high-velocity ship, escorted by fighters, overrode our "
+"internal security. They will try to dock with us, you must intercept it at "
+"once !\""
+msgstr ""
+"Le Black Site envoie une emission d'urgence:\n"
+"\t\n"
+"\"Il semble que l'ennemi change de tactique. Nos scanners a longue portee "
+"montrent qu'un navire a grande vitesse de type inconnu, escorte par des "
+"chasseurs, a outrepasse notre securite interieure. Ils vont essayer de "
+"s'amarrer a nous, vous devez l'intercepter immediatement!\""
+
+#: scenario_04_gftp.lua:262
+msgid ""
+"Black site's Dispatch lowers the alarm level, but before he could speak, "
+"sparks fly in your ship's command deck. The unidentified ship activated its "
+"payload, but your Engineering team managed to confine the damage to the "
+"lower levels.\n"
+"However, the other ships seem to be less lucky. Most go offline, and other "
+"are going off-course. What is going on ?"
+msgstr ""
+
+#: scenario_04_gftp.lua:272
+msgid ""
+"You hear the panicked voice of the BS#114 dispatcher :\n"
+"\t\n"
+"\"Epsilon, the unidentified ship is preparing for a boarding maneuver ! Take "
+"out that gorram ship, NOW !\""
+msgstr ""
+
+#: scenario_04_gftp.lua:282
+msgid ""
+"There is a loud bang and sparks fly in your ship's command deck. All the "
+"other ships and the station go offline. Amidst the silence, a crudely "
+"synthetized voice break in :\n"
+"\"HAHA\n"
+"I'M WHOLE NOW\n"
+"GET REKT LOSER\"\n"
+"\n"
+"Whatever that means, it cannot be good."
+msgstr ""
+
+#: scenario_04_gftp.lua:297
+msgid ""
+"The incredulous voice of the Central Command relay comes in :\n"
+"\n"
+"\"'The hell Epsilon ? Fall back immediately to Marco Polo, we send a "
+"security detail to extract you. Time to call in the big guns I guess.\""
+msgstr ""
+
+#: scenario_04_gftp.lua:329
+msgid ""
+"After the silence, the Black Site's dispatch comes again :\n"
+"\n"
+"\"The Engineering team identified the payload activated by the unknown ship. "
+"It was a mass hacking device which turned our men against us. Even if these "
+"ship's relays are down, reverse engineering teams think there is a way to "
+"regain control : a near field injection.\n"
+"To summarize, get near the infected ships, find a backdoor using the "
+"frequency LEAST absorbed by their shields and deploy our patches. Godspeed "
+"Epsilon.\""
+msgstr ""
+
+#: scenario_04_gftp.lua:366
+msgid ""
+"After the final ship is taken care of, Black Site #114 dispatch lets out a "
+"sigh of relief :\n"
+"\n"
+"\"Whew. Well, that takes care of this. Feel free to repair, reload... "
+"whatever floats your boat, this is on the house.\n"
+"There is a lot to process at the instant, we will contact you as soon as we "
+"understand what the hell just happened.\""
+msgstr ""
+
+#: scenario_04_gftp.lua:376
+msgid ""
+"On sight, Marco Polo makes contact with you :\n"
+"\t\t\n"
+"\t\t\"We're relieved that we could save at least one ship from this "
+"monstrous assault. Repair and reload as we notify Central Command of what "
+"happened there, we will keep you updated on the situation.\""
+msgstr ""
+
+#: scenario_04_gftp.lua:388
+msgid ""
+"The dispatcher gets back to you :\n"
+"\n"
+"\"Our analysts found out that this attack was orchestrated by a Rogue AI, "
+"created by this facility but escaped a few months ago.\n"
+"Even if we cannot pinpoint its physical location at the moment, the mass-"
+"energy balance of the Ktlitan Swarm FTL jump indicates that a large "
+"structure made the jump.\n"
+"This structure did not participate to any of the assaults so we presume that "
+"it is a command platform, hiding in a nebula.\n"
+"We want to deliver the first blow, locate and destroy it. To find its "
+"position, you can use the Nosy Sensing Array in the sector F5.\""
+msgstr ""
+
+#: scenario_04_gftp.lua:400
+msgid ""
+"The Central Command relay seems very worried :\n"
+"\t\t\"This is bad. Really bad. Things went FUBAR at a Navy Black Ops site, "
+"seems that a Rogue AI has taken control of the site and all ships around.  "
+"We are sending you the HNS Shiva to nuke the hell out of this haywire "
+"computer.\n"
+"It is due to come out of its FTL jump near the NSA array, secure the "
+"location and report back. The other troops are scrambling to crush their "
+"command platform before even more reinforcement comes.\""
+msgstr ""
+
+#: scenario_04_gftp.lua:427
+msgid ""
+"Black Ops dispatch comes in :\n"
+"\n"
+"\"Well, this is a rather straightforward mean to solve our problem. Use NSA "
+"again to locate the carrier.\""
+msgstr ""
+
+#: scenario_04_gftp.lua:435
+msgid ""
+"The ethereal voice of the Arlenian is heard on the radio :\n"
+"\n"
+"\"Thank you, human. Your diligence does credit to your species.\n"
+"We are both ready to continue our purpose, it seems.\""
+msgstr ""
+
+#: scenario_04_gftp.lua:447
+msgid ""
+"Central Command comes in :\n"
+"\t\t\"Bogeys on their way to NSA, Epsilon. Take care of them.\""
+msgstr ""
+
+#: scenario_04_gftp.lua:463
+msgid ""
+"A Black Ops military officer hails the ship :\n"
+"\n"
+"\"We have the command platform location confirmed in the nebula around H6. "
+"All Navy ships, converge on the location. We advise you to deploy probes "
+"near the pointed nebula for a better visibility.\""
+msgstr ""
+
+#: scenario_04_gftp.lua:485
+msgid ""
+"Come in, this is HNS Shiva, here to clean this mess. Your mission for now is "
+"to escort us to the compromised site. Let's roll !"
+msgstr ""
+
+#: scenario_04_gftp.lua:496
+msgid ""
+"Okay everyone, time to give the bots a taste of their own medicine. Escort "
+"safely our recovery team to infiltrate and extract information from the "
+"Swarm Command."
+msgstr ""
+
+#: scenario_04_gftp.lua:521
+msgid ""
+"The fallen station is down. Epsilon, gather as soon as possible with the "
+"other ships in the sector H6."
+msgstr ""
+
+#: scenario_04_gftp.lua:529
+msgid "We're in. Protect us while we take what we need inside."
+msgstr ""
+
+#: scenario_04_gftp.lua:539 scenario_04_gftp.lua:577
+msgid "Our extraction party is down ! Bomb that gorram plaform !"
+msgstr ""
+
+#: scenario_04_gftp.lua:545
+msgid "Okay, this is it. Launch the assault !"
+msgstr ""
+
+#: scenario_04_gftp.lua:566
+msgid ""
+"All relevant data is collected, we're out now. You can destroy the carrier !"
+msgstr ""
+
+#: scenario_04_gftp.lua:572
+msgid ""
+"Even if the extraction party was sacrified, the threat caused by the Swarm "
+"Command was still too great. Humanity is safe... but for how long ?"
+msgstr ""
+
+#: scenario_04_gftp.lua:582
+msgid "The Swarm Command is down ! Humanity is safe... for now."
+msgstr ""
+
+#: scenario_04_gftp.lua:588
+msgid ""
+"The Swarm Command is down ! With the information extracted, the Navy is "
+"aware of the physical location of the Rogue AI and can track it down. "
+"Congratulations !"
+msgstr ""
+
+#~ msgid ""
+#~ ". With this information, it will be easier to track down Swarm Commander."
+#~ msgstr ""
+#~ ". Grâce à ces informations, il sera plus facile de retrouver le "
+#~ "commandant de l'essaim."
