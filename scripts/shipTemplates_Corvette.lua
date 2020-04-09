@@ -305,7 +305,7 @@ template:setJumpDriveRange(5000, 100 * 50000) -- The jump carrier can jump a 100
 template:setDockClasses("Starfighter", "Frigate", "Corvette")
 
 
-variation = template:copy("Benedict"):setLocaleName(_("Benedict")):setType("playership"):setClass(_("Corvette"), _("Freighter/Carrier"))
+variation = template:copy("Benedict"):setLocaleName(_("Benedict")):setType("playership"):setClass(_("Corvette"), _("Freighter")."/"._("Carrier"))
 variation:setDescription(_("Benedict is an improved version of the Jump Carrier"))
 variation:setShields(70, 70)
 variation:setHull(200)
