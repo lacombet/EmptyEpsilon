@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Empty Epsilon\n"
 "POT-Creation-Date: 2020-04-09 22:22+0200\n"
-"PO-Revision-Date: 2020-04-09 22:41+0200\n"
+"PO-Revision-Date: 2020-04-09 23:04+0200\n"
 "Last-Translator: \n"
 "Language-Team: Aprexia\n"
 "Language: fr_FR\n"
@@ -40,11 +40,11 @@ msgid ""
 "Atlantis X23 is fitted with a jump drive, it can also serve as an "
 "intersystem patrol craft."
 msgstr ""
-"Le Atlantis X23 allie le petit gabarit d'une frégate à la puissance de feu "
+"Le Atlantis X23 allie le petit gabarit d'une fregate a la puissance de feu "
 "d'une corvette. Ces attouts en font un excellent vaisseau d'escorte "
-"particulièrement efficace lorsqu'il s'agit de défendre d'imposants vaisseaux "
+"particulierement efficace lorsqu'il s'agit de defendre d'imposants vaisseaux "
 "contre de multiples ennemis plus petits. \n"
-"Son moteur de saut en fait également un patrouilleur inter-systèmes "
+"Son moteur de saut en fait egalement un patrouilleur inter-systemes "
 "remarquable."
 
 #: shipTemplates_Corvette.lua:33
@@ -58,11 +58,11 @@ msgid ""
 "impulse engines. Its missile loadout is also more diverse. Mistaking the "
 "modified Atlantis for an Atlantis X23 would be a deadly mistake."
 msgstr ""
-"Un Atlantis X23 réaménagé pour des tâches plus générales. \n"
-"Le système de bouclier fait place à un moteur à impulsion plus performant, "
-"permettant notament l'execution de manoeuvre de combat avancées. Son "
-"armement est également plus diversifié que celui de son homologue.\n"
-"Prendre un Atlantis modifié pour un Atlantis X23 serait une erreur fatale."
+"Un Atlantis X23 reamenage pour des tâches plus generales. \n"
+"Le systeme de bouclier fait place a un moteur a impulsion plus performant, "
+"permettant notament l'execution de manoeuvre de combat avancees. Son "
+"armement est egalement plus diversifie que celui de son homologue.\n"
+"Prendre un Atlantis modifie pour un Atlantis X23 serait une erreur fatale."
 
 #: shipTemplates_Corvette.lua:83
 msgid "Starhammer II"
@@ -77,11 +77,11 @@ msgid ""
 "time, even the strongest shields can't withstand a Starhammer's assault for "
 "long."
 msgstr ""
-"Contrairement à son prédécesseur, le Starhammer II fait honneur à son nom. \n"
-"En résolvant les problèmes de gestion de la puissance et de la chaleur du "
-"Starhammer original, le modèle actualisé constitue un vaisseau d'assaut "
-"frontal phénoménal. Sa faible vitesse le rend difficile à manoeuvrer mais "
-"même les boucliers les plus solides ne peuvent résister longtemps à ses "
+"Contrairement a son predecesseur, le Starhammer II fait honneur a son nom. \n"
+"En resolvant les problemes de gestion de la puissance et de la chaleur du "
+"Starhammer original, le modele actualise constitue un vaisseau d'assaut "
+"frontal phenomenal. Sa faible vitesse le rend difficile a manoeuvrer mais "
+"meme les boucliers les plus solides ne peuvent resister longtemps a ses "
 "assaults."
 
 #: shipTemplates_Corvette.lua:101
@@ -99,8 +99,8 @@ msgid ""
 "but not as strong as the Atlantis"
 msgstr ""
 "Ce vaisseau est couvert de tubes de lancement de missiles. Bien que toujours "
-"présents, les armes à faisceaux ne font office que d'armes d'appoint. \n"
-"Ses défenses sont plus solides qu'une frégate, mais pas aussi solides que "
+"presents, les armes a faisceaux ne font office que d'armes d'appoint. \n"
+"Ses defenses sont plus solides qu'une fregate, mais pas aussi solides que "
 "celles de l'Atlantis"
 
 #: shipTemplates_Corvette.lua:157
@@ -109,7 +109,7 @@ msgstr "Maverick"
 
 #: shipTemplates_Corvette.lua:157
 msgid "Gunner"
-msgstr "Canonnière"
+msgstr "Canonniere"
 
 #: shipTemplates_Corvette.lua:158
 msgid ""
@@ -117,15 +117,15 @@ msgid ""
 "deemed lower priority, though they are still present. Stronger defenses than "
 "a frigate, but not as strong as the Atlantis"
 msgstr ""
-"Un certain nombre d'armes à faisceaux parsèment cette canonniere. Elle "
+"Un certain nombre d'armes a faisceaux parsement cette canonniere. Elle "
 "emporte quelques missiles bien qu'ils ne soient pas ses armes de "
-"prédilection. \n"
-"Ses défenses sont plus solides qu'une frégate, mais pas aussi solides que "
+"predilection. \n"
+"Ses defenses sont plus solides qu'une fregate, mais pas aussi solides que "
 "celles de l'Atlantis"
 
 #: shipTemplates_Corvette.lua:217
 msgid "Defense platform"
-msgstr "Plateforme de défense"
+msgstr "Plateforme de defense"
 
 #: shipTemplates_Corvette.lua:217
 msgid "Support"
@@ -137,13 +137,13 @@ msgid ""
 "resupply functions, but is armed with powerful beam weapons and can slowly "
 "rotate. Larger systems often use these platforms to resupply patrol ships."
 msgstr ""
-"Une plateforme de défense est stationnaire. \n"
-"Elle opère à la manière d'une station, avec des fonctions d'amarrage et de "
-"réapprovisionnement, mais elle est armée de puissantes armes à faisceau et "
+"Une plateforme de defense est stationnaire. \n"
+"Elle opere a la maniere d'une station, avec des fonctions d'amarrage et de "
+"reapprovisionnement, mais elle est armee de puissantes armes a faisceau et "
 "peut pivoter lentement. \n"
 "\n"
-"Les systèmes les plus importants utilisent souvent ces plateformes pour "
-"réapprovisionner les vaisseaux de patrouille."
+"Les systemes les plus importants utilisent souvent ces plateformes pour "
+"reapprovisionner les vaisseaux de patrouille."
 
 #: shipTemplates_Corvette.lua:235
 #, lua-format
@@ -181,11 +181,11 @@ msgid ""
 "power. Their cargo bays include climate control and stabilization systems "
 "that keep the cargo in good condition."
 msgstr ""
-"Les transporteurs de fret acheminent de grandes quantités de marchandises "
-"sur de longues distances grâce à la puissance de leurs imposants moteurs à "
+"Les transporteurs de fret acheminent de grandes quantites de marchandises "
+"sur de longues distances grâce a la puissance de leurs imposants moteurs a "
 "impulsion. \n"
-"Leurs soutes sont équipées de systèmes de climatisation et de stabilisation "
-"permettant le maintien de la cargaison en bon état."
+"Leurs soutes sont equipees de systemes de climatisation et de stabilisation "
+"permettant le maintien de la cargaison en bon etat."
 
 #: shipTemplates_Corvette.lua:255
 #, lua-format
@@ -203,9 +203,9 @@ msgid ""
 "fitted with a trash compactor and fewer stabilzation systems than cargo "
 "freighters."
 msgstr ""
-"Ces cargos sont spécialement conçus pour transporter des ordures et des "
-"déchets. Ils sont équipés d'un compacteur et leurs systèmes de stabilisation "
-"sont réduits au minimum."
+"Ces cargos sont specialement conçus pour transporter des ordures et des "
+"dechets. Ils sont equipes d'un compacteur et leurs systemes de stabilisation "
+"sont reduits au minimum."
 
 #: shipTemplates_Corvette.lua:267
 #, lua-format
@@ -215,21 +215,21 @@ msgstr "Cargo poubelle LD %d"
 #: shipTemplates_Corvette.lua:271
 #, lua-format
 msgid "Equipment Freighter %d"
-msgstr "Transport d'équipement %d"
+msgstr "Transport d'equipement %d"
 
 #: shipTemplates_Corvette.lua:272
 msgid ""
 "Equipment freighters have specialized environmental and stabilization "
 "systems to safely carry delicate machinery and complex instruments."
 msgstr ""
-"Les transports d'équipement disposent de systèmes de stabilisation "
-"spécialisés pour transporter en toute sécurité des appareils délicats et des "
+"Les transports d'equipement disposent de systemes de stabilisation "
+"specialises pour transporter en toute securite des appareils delicats et des "
 "instruments complexes."
 
 #: shipTemplates_Corvette.lua:279
 #, lua-format
 msgid "Equipment Jump Freighter %d"
-msgstr "Transport d'équipement LD %d"
+msgstr "Transport d'equipement LD %d"
 
 #: shipTemplates_Corvette.lua:283
 #, lua-format
@@ -242,8 +242,8 @@ msgid ""
 "sensors that watch for any changes to their cargo's potentially volatile "
 "state."
 msgstr ""
-"Les pétroliers disposent d'énormes réservoirs de carburant et de capteurs "
-"internes sophistiqués capables de détecter toute variation de l'état "
+"Les petroliers disposent d'enormes reservoirs de carburant et de capteurs "
+"internes sophistiques capables de detecter toute variation de l'etat "
 "potentiellement volatil de leur cargaison."
 
 #: shipTemplates_Corvette.lua:291
@@ -263,11 +263,11 @@ msgid ""
 "It is designed to carry other ships deep into space. So it has special "
 "docking parameters, allowing other ships to attach themselves to this ship."
 msgstr ""
-"Le Jump Carrier est un transporteur spécialisé. \n"
-"Il ne transporte aucune cargaison, car sa soute est occupée par un moteur de "
-"saut perfectionné et ses batteries massives.\n"
-"Il est conçu pour transporter d'autres vaisseaux à travers l'espace. Il "
-"dispose donc de paramètres d'amarrage spéciaux, permettant à d'autres "
+"Le Jump Carrier est un transporteur specialise. \n"
+"Il ne transporte aucune cargaison, car sa soute est occupee par un moteur de "
+"saut perfectionne et ses batteries massives.\n"
+"Il est conçu pour transporter d'autres vaisseaux a travers l'espace. Il "
+"dispose donc de parametres d'amarrage speciaux, permettant a d'autres "
 "navires de s'y rattacher."
 
 #: shipTemplates_Corvette.lua:308
@@ -280,7 +280,7 @@ msgstr "Remorqueur"
 
 #: shipTemplates_Corvette.lua:309
 msgid "Benedict is an improved version of the Jump Carrier"
-msgstr "Le Benedict est une version améliorée du Remorqueur LD classique"
+msgstr "Le Benedict est une version amelioree du Remorqueur LD classique"
 
 #: shipTemplates_Corvette.lua:342
 msgid "Kiriya"
@@ -288,7 +288,7 @@ msgstr "Kiriya"
 
 #: shipTemplates_Corvette.lua:343
 msgid "Kiriya is an improved warp drive version of the Jump Carrier"
-msgstr "Le Kiriya est un Remorqueur LD pourvu d'un moteur à distorsion"
+msgstr "Le Kiriya est un Remorqueur LD pourvu d'un moteur a distorsion"
 
 #~ msgid "Freighter/Carrier"
 #~ msgstr "Cargo/Remorqueur"
